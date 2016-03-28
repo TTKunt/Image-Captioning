@@ -1,0 +1,6 @@
+numpy==1.10.4
+scipy==0.17.0
+Theano=0.8.0.dev0
+Keras=0.3.2
+nltk==3.2
+hickle==2.0.4
